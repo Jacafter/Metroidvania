@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\deads\OneDrive\Documents\my_Documents\Classes\Intro to Computer Programming\Final Project\Final Project\Metroidvania_V8\Game\main.c(57,10): warning C4013: 'Sleep' undefined; assuming extern returning int
+  Game.vcxproj -> C:\Users\deads\OneDrive\Documents\my_Documents\Classes\Intro to Computer Programming\Final Project\Final Project\Metroidvania_V8\x64\Debug\Game.exe
